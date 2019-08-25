@@ -1,0 +1,78 @@
+/* Elliott White */
+/* Homework #1 */
+/* Building a Wireframe */
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin: 0 auto;
+}   
+
+
+header{
+    background: #ebebeb;
+    padding: 30px;
+    margin: 10px;
+} 
+
+Nav{
+    background: #ebebeb;
+    padding: 30px;
+    margin: 10px; 
+}
+
+Section{
+    float: left;
+    background: #ebebeb;
+    width: 495px;
+    padding: 10px;
+    padding-top: 25px;
+    margin: 10px;
+}   
+
+Aside{
+    background: #ebebeb;
+    float: left;
+    padding: 20px;
+    margin: 10px;
+    padding-bottom: 193px;
+    width: 425px;
+    height: auto;
+}
+
+Article{
+    color: #ebebeb;
+    background: #777;
+    padding: 10px;
+    
+    margin-top:20px;
+}
+
+Footer{
+    clear: both;
+    background: #ebebeb;
+    padding: 30px;
+    margin: 10px;
+}
+
+h1{
+    color: #777;
+    background: #ebebeb;
+    padding: 10px;
+    margin: 10px;
+} 
+
+p{
+    color: #777;
+    background: #ebebeb;
+    padding: 10px;
+    margin: 10px;
+}
